@@ -40,7 +40,7 @@ sentence= "Gracias por su compra, el total de su compra es de {0}€".format(num
 print(sentence)
 
 #EJERCICIO 9
-greeting= "hello world"#EX9
+greeting= "hello world"
 print(greeting)
 
 #EJERCICIO CADENA HOLA
