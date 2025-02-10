@@ -43,7 +43,7 @@ print(sentence)
 greeting= "hello world"#EX9
 print(greeting)
 
-#EJERCICO CADENA HOLA
+#EJERCICIO CADENA HOLA
 #INDEX
 word= "Hola"
 query= word.index("Hola")
